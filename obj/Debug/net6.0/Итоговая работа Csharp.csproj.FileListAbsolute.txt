@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\bin\Debug\net6.0\Итоговая работа Csharp.exe
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\bin\Debug\net6.0\Итоговая работа Csharp.deps.json
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\bin\Debug\net6.0\Итоговая работа Csharp.runtimeconfig.json
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\bin\Debug\net6.0\Итоговая работа Csharp.dll
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\bin\Debug\net6.0\Итоговая работа Csharp.pdb
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.AssemblyInfo.cs
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.dll
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\refint\Итоговая работа Csharp.dll
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.pdb
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\Итоговая работа Csharp.genruntimeconfig.cache
+C:\Users\1\Desktop\GeekBrains\Итоговая работа Csharp\obj\Debug\net6.0\ref\Итоговая работа Csharp.dll
